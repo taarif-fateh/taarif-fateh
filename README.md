@@ -4,14 +4,6 @@
 - 🌱 I’m currently learning data visualisation
 - ⚡ Fun fact: I’m a psychology student with a deep curiosity about the human mind and behavior, aspiring to become a clinical psychologist and researcher. My ultimate goal is to bridge psychology, neuroscience, and medicine, contributing to innovative solutions that enhance mental health care.
 
-  My academic journey at the National University of Bangladesh has provided a solid foundation in psychology, while my professional and volunteer experiences have enriched my interpersonal and problem-solving skills. As an International Sales Executive, I developed exceptional communication abilities, and my leadership roles in BNCC and Phulkuri Ashar have honed my mentoring and community engagement skills.
-
-Beyond academics and work, I am a creative individual with a passion for stage acting and mime performance through Nattya Tori. My interests also include traveling, reading literature, cycling, and immersing myself in diverse cultural experiences—all of which inspire my approach to understanding human behavior.
-
-I am committed to advancing mental health care by integrating psychological and medical sciences, aiming to provide holistic and impactful solutions. I’m eager to connect with professionals and researchers who share the vision of making meaningful contributions to the field of psychology.
-
-Let’s collaborate to shape a better future in mental health care!
-
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/tarif.fateh.1) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/taarif_fateh) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/taarif-fateh) 
